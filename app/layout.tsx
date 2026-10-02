@@ -5,7 +5,6 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'AI Project Passport | Find your first AI project',
   description: 'Discover a practical AI project you can start building in 60 minutes.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
